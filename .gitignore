@@ -2,3 +2,12 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.DS_Store
+ehthumbs.db
+Thumbs.db
+Network Trash Folder
+Temporary Items
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+Icon*
