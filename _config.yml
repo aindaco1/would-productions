@@ -1,4 +1,4 @@
-site: Duet Jekyll Theme
+site: Would Productions
 
 collections:
   pages:
@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 6
+paginate: 4
 paginate_path: "/blog/page:num/"
 
 gallery_types:

@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Would Productions
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -61,16 +61,16 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
+  background_color: '#F9F6EE'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
+  text_dark_color: '#313639'
+  text_medium_color: '#808782'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
-  border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
-  overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
+  accent_color: '#EF476F'
+  border_color: '#118AB2'
+  overlay_background_color: '#EF476F'
+  overlay_text_color: '#F9F6EE'
+  overlay_accent_color: '#313639'
   error_color: '#D64541'
 
 font_settings:
