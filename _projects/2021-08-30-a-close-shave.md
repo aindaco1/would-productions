@@ -10,7 +10,7 @@ featured_image: '/images/close_shave/still_1_square.png'
 
 ## Background
 
-"A Close Shave" was created for submission to the ["Story Through Lighting"](https://nofilmschool.com/contest-pocket-cinema-6k-pro-blackmagic) contest. We were tasked with creating a short film which told a story through dramatic lighting techniques -- we shot it over two nights at the Would Productions studio in Corrales, New Mexico.
+_A Close Shave_ was created for submission to the ["Story Through Lighting"](https://nofilmschool.com/contest-pocket-cinema-6k-pro-blackmagic) contest. We were tasked with creating a short film which told a story through dramatic lighting techniques -- we shot it over two nights at the Would Productions studio in Corrales, New Mexico.
 
 Equipment used:
 
@@ -28,8 +28,9 @@ Equipment used:
 
 ### Behind the scenes
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="2">
 	<img src="/images/close_shave/behind_1.jpg">
+	<img src="/images/close_shave/behind_2.png">
 </div>
 
 ### Film

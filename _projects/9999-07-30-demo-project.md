@@ -1,9 +1,10 @@
 ---
-title: 'A Close Shave'
-subtitle: 'This is a demo'
-date: 2019-08-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'Fumbled Not Stirred'
+subtitle: 'YouTube mixology series'
+date: 9999-07-30 00:00:00
+description: More info on our mixology tutorial series for YouTube
 featured_image: '/images/demo/demo-square.jpg'
+published: false
 ---
 
 ![](/images/demo/demo-landscape.jpg)

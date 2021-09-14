@@ -19,7 +19,7 @@ menu_settings:
 
 footer_settings:
   logo_image: /images/favicon.png
-  logo_width: 100
+  logo_width: 50
   footer_tagline: 
 
 grid_settings:
@@ -33,11 +33,11 @@ contact_settings:
   send_button_text: 'Send'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'http://instagram.com'
+  facebook_url: ''
+  twitter_url: ''
+  instagram_url: ''
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/playlist?list=PLQ2ZWyzK5zqzdqIPFqV9wZzNNXs-Y3WVW'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -46,8 +46,8 @@ social_settings:
   amazon_url: ''
   apple_url: ''
   android_url: ''
-  tumblr_url: 'http://tumblr.com'
-  dribbble_url: 'http://dribbble.com'
+  tumblr_url: ''
+  dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
   github_url: ''
@@ -76,7 +76,7 @@ color_settings:
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nanum Myeongjo:300,400,600,700" rel="stylesheet">'
   title_font: '"Nanum Myeongjo", sans-serif'
-  body_font: '"Noto Serif", sans-serif'
+  body_font: '"Capriola", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
