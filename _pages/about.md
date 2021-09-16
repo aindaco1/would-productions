@@ -21,7 +21,7 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 #### Ryan Lewis -- Creator, Production Assistant
 #### Matthew Atkins -- Composer
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/about/jay.jpg">
 	<img src="/images/about/james.jpg">
 	<img src="/images/about/alonso.jpg">
