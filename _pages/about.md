@@ -5,11 +5,11 @@ description: More info on Would Productions.
 featured_image: /images/social.png
 ---
 
-![](/images/social.png)
-
 ## Who We Are
 
-Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico. More than a little inspired by 
+Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico. More than a little inspired by a certain director of horror and sci-fi.
+
+![](/images/social.png)
 
 ## Team
 
