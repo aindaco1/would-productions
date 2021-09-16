@@ -1,5 +1,6 @@
 ---
 title: About
+subtitle:
 description: More info on Would Productions.
 featured_image: /images/social.png
 ---
@@ -8,7 +9,7 @@ featured_image: /images/social.png
 
 ## Who We Are
 
-Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
+Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico. More than a little inspired by 
 
 ## Team
 
@@ -21,10 +22,10 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 #### Matthew Atkins -- Composer
 
 <div class="gallery" data-columns="2">
-	<img src="/images/about/alonso.jpg">
-	<img src="/images/about/ryan.jpg">
 	<img src="/images/about/jay.jpg">
 	<img src="/images/about/james.jpg">
+	<img src="/images/about/alonso.jpg">
+	<img src="/images/about/ryan.jpg">
 	<img src="/images/about/taryn.jpg">
 	<img src="/images/about/adrian.jpg">
 	<img src="/images/about/mattkins.jpg">
