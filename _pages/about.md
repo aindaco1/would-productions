@@ -1,34 +1,31 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About
+description: More info on Would Productions.
+featured_image: /images/social.png
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/social.png)
 
-## Features
+## Who We Are
 
-We've packed Duet full of powerful features to help showcase your work:
+Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Team
 
-## Get Duet
+#### Jay Renteria -- Director, Cinematographer, Editor
+#### Alonso Indacochea -- Producer, Writer, Director, Editor
+#### James Rodriguez -- Actor, Creator
+#### Taryn Bernicke -- Camera Operator, Creator
+#### Adrian Lopez -- Actor, Creator
+#### Ryan Lewis -- Creator, Production Assistant
+#### Matthew Atkins -- Composer
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<div class="gallery" data-columns="2">
+	<img src="/images/about/alonso.jpg">
+	<img src="/images/about/ryan.jpg">
+	<img src="/images/about/jay.jpg">
+	<img src="/images/about/james.jpg">
+	<img src="/images/about/taryn.jpg">
+	<img src="/images/about/adrian.jpg">
+	<img src="/images/about/mattkins.jpg">
+</div>
