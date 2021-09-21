@@ -287,6 +287,12 @@ hr {
 	background: $background-alt-color;
 }
 
+figcaption {
+	margin-top: 5px;
+	text-align: center;
+	font-size: 80%;
+}
+
 ::selection 	 { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
