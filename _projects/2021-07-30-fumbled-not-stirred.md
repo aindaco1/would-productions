@@ -27,7 +27,7 @@ Equipment used:
 
 * [The Godfather](https://www.youtube.com/watch?v=HIO1DdVT7qM)
 * [The Dude's White Russian](https://www.youtube.com/watch?v=eKjRv1kwGAI)
-* James Bond's Vesper Martini (coming soon)
+* [James Bond's Vesper Martini](https://www.youtube.com/watch?v=ERjMg-O75ms)
 * The Space Jam (coming soon)
 * The Negroni (coming soon)
 
@@ -42,4 +42,4 @@ Equipment used:
 
 ### Show
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKjRv1kwGAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ERjMg-O75ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
