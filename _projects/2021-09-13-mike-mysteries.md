@@ -33,6 +33,15 @@ Equipment used:
 	<img src="/images/mike_mysteries/behind_3.jpg">
 </div>
 
+### Awards
+
+<div class="gallery" data-columns="2">
+	<img src="/images/mike_mysteries/awards_1.png">
+	<img src="/images/mike_mysteries/awards_2.jpg">
+	<img src="/images/mike_mysteries/awards_3.jpg">
+	<img src="/images/mike_mysteries/awards_4.jpg">
+</div>
+
 ### Film
 
-Coming soon!
+Coming soon. We can't post it publicly yet because we won!
