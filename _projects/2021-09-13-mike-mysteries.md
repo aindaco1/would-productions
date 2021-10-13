@@ -36,7 +36,7 @@ Equipment used:
 ### Awards
 
 <div class="gallery" data-columns="2">
-	<img src="/images/mike_mysteries/awards_1.png">
+	<img src="/images/mike_mysteries/awards_1.jpg">
 	<img src="/images/mike_mysteries/awards_2.jpg">
 	<img src="/images/mike_mysteries/awards_3.jpg">
 	<img src="/images/mike_mysteries/awards_4.jpg">
