@@ -35,6 +35,12 @@ Equipment used:
 
 ### Awards
 
+* Best Performance in Comedic Supporting Role - James Rodriguez
+* Audience Award, Group A
+* Best Editing
+* Best Directing
+* Best Film
+
 <div class="gallery" data-columns="2">
 	<img src="/images/mike_mysteries/awards_1.jpg">
 	<img src="/images/mike_mysteries/awards_2.jpg">
