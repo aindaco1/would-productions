@@ -28,8 +28,8 @@ Equipment used:
 * [The Godfather](https://www.youtube.com/watch?v=HIO1DdVT7qM)
 * [The Dude's White Russian](https://www.youtube.com/watch?v=eKjRv1kwGAI)
 * [James Bond's Vesper Martini](https://www.youtube.com/watch?v=ERjMg-O75ms)
-* The Space Jam (coming soon)
-* The Negroni (coming soon)
+* [The Space Jam](https://www.youtube.com/watch?v=BuMBY_9EupE)
+* The Moloko Plus (coming soon)
 
 ### Behind the scenes
 
