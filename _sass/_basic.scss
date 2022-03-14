@@ -395,3 +395,12 @@ section {
 		max-width: 60%;
 	}
 }
+
+// Two column text
+
+.two-col {
+	-moz-column-count: 2;
+	-moz-column-gap: 5px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 5px;
+}
