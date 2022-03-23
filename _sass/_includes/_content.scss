@@ -231,3 +231,11 @@
 		height: 100%;
 	}
 }
+
+.instagram-media {
+	margin: 30px auto !important;
+	max-width: 600px !important;
+	@media screen and (max-width: 650px) {
+		max-width: 90% !important;
+	}
+}
