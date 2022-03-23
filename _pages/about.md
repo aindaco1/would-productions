@@ -22,6 +22,7 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 	<img src="/images/about/mattkins.jpg">
 	<img src="/images/about/jordyn.jpg">
 	<img src="/images/about/nater.jpg">
+	<img src="/images/about/jenny.jpg">
 	<img src="/images/about/damian.jpg">
 	<img src="/images/about/jacqueline.jpg">
 	<img src="/images/about/frank.jpg">
@@ -59,6 +60,8 @@ Creator, Audio Design
 Creator, Writer
 #### Nathan Moats
 Creator, Production Assistant
-<br><br>
+#### Jenny Thoma
+Creator, Podcaster
+<br>
 <br>
 </div>
