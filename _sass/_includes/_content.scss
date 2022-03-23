@@ -241,13 +241,13 @@
 }
 
 iframe {
+}
+
+.spotify {
+	display: flex;
 	max-width: 600px;
 	margin: 30px auto;
 	@media screen and (max-width: 650px) {
 		max-width: 90% !important;
 	}
-}
-
-.spotify {
-	display: flex;
 }
