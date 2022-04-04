@@ -33,6 +33,10 @@ Equipment used:
 	<img src="/images/close_shave/behind_2.png">
 </div>
 
+### Awards
+
+* Selected for screening -- [FUSION Surrealfest](https://calendar.abq.news/venues/138574/2487405), Albuquerque, NM
+
 ### Film
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ujtisNFvPfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
