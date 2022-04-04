@@ -33,7 +33,7 @@ featured_image: /images/social.png
 								<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
 								<div class="tag-on-hover">
 									<i class="fas fa-tags portfolio-item__tag"></i>
-									<p class="portfolio-item__tag">&nbsp;{{project.tags}}</p>
+									<span class="portfolio-item__tag">&nbsp;{{project.tags | sort | join: ", " }}</span>
 								</div>
 							</div>
 						</div>

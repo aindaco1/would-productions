@@ -14,7 +14,7 @@ layout: default
       <div class="tag">
       <i class="fas fa-tags"></i>
       {% for tags in page.tags %}
-      <a href="{{ site.baseurl | append: "/tag/" | append: page.tags[i] | downcase }}"><span class="is-link">{{page.tags[i]}}</span></a>
+      <a href="{{ site.baseurl | append: "/tag/" | append: page.tags[i] | downcase | remove: " " }}"><span class="is-link">&nbsp;&nbsp;{{page.tags[i]}}</span></a>
       {% assign i = i | plus:1 %}
       {% endfor %}
       </div>
