@@ -4,6 +4,8 @@ subtitle: 'Mockumentary for 48 Hour Film Project Albuquerque 2021'
 date: 2021-09-13 00:00:00
 description: More info on our entry to the 48 Hour Film Project Albuquerque 2021, Mike Mysteries
 featured_image: '/images/mike_mysteries/still_square.jpg'
+tags:
+- Released
 ---
 
 ![](/images/mike_mysteries/still.jpg)

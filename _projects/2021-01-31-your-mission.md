@@ -4,6 +4,8 @@ subtitle: 'Music review podcast'
 date: 2021-07-30 00:00:00
 description: More info on music review podcast streamed live on Twitch
 featured_image: '/images/your_mission/thumbnail_square.png'
+tags:
+- Ongoing
 ---
 
 ![](/images/your_mission/thumbnail.png)

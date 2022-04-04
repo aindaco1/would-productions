@@ -17,6 +17,7 @@
 	padding: $grid-spacing/2;
 	float: left;
 	width: 50%;
+	max-width: 500px;
 }
 
 .blog-post__link {
@@ -33,6 +34,10 @@
 			}
 		}
 	}
+}
+
+.blog-post__link:hover {
+	max-width: 500px;
 }
 
 .blog-post__image {

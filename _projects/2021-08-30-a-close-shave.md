@@ -4,6 +4,8 @@ subtitle: 'Short film for Story Through Lighting contest'
 date: 2021-08-30 00:00:00
 description: More info on our first short film -- A Close Shave
 featured_image: '/images/close_shave/still_1_square.png'
+tags:
+- Released
 ---
 
 ![](/images/close_shave/still_1.png)

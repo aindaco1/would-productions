@@ -4,6 +4,8 @@ subtitle: Upscaled from 360p to 1080p
 date: 2021-08-29 00:00:00
 description: More info on the upscale we did for the award-winning documentary Space Times Square.
 featured_image: /images/space_times_square/still_1_square.jpg
+tags:
+- Released
 ---
 
 ![](/images/space_times_square/still_2.png)

@@ -4,6 +4,8 @@ subtitle: 'YouTube mixology series'
 date: 2021-07-30 00:00:00
 description: More info on our mixology tutorial series for YouTube
 featured_image: '/images/fumbled_not_stirred/thumbnail_square.png'
+tags:
+- Ongoing
 ---
 
 ![](/images/fumbled_not_stirred/thumbnail.png)

@@ -4,6 +4,8 @@ subtitle: 'Short film for the New Belgium Voodoo Ranger Pint Size Film Festival'
 date: 2021-10-22 00:00:00
 description: More info on our short film for the New Belgium Voodoo Ranger Pint Size Film Festival
 featured_image: '/images/glass_half/poster_square.jpg'
+tags:
+- Released
 ---
 
 ![](/images/glass_half/poster.jpg)

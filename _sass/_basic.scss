@@ -420,3 +420,16 @@ section {
 		font-size: 75% !important;
 	}
 }
+
+.intro-flex {
+	display: flex;
+}
+
+.tag {
+	margin: 0.5rem auto;
+}
+
+.tag-on-hover {
+	display: inline-flex;
+    align-items: center;
+}

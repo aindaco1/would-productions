@@ -5,18 +5,6 @@ description: A film production company making shorts, documentaries, web series,
 featured_image: /images/social.png
 ---
 
-<section class="intro">
-
-	<!-- <div class="wrap">
-
-		<h1>A beautiful, minimal two-column
-		portfolio theme built for Jekyll.</h1>
-		<p>Duet makes your work look simply awesome.</p>
-
-	</div> -->
-
-</section>
-
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap">
@@ -35,6 +23,10 @@ featured_image: /images/social.png
 					<div class="portfolio-item__info">
 						<h2 class="portfolio-item__title">{{ project.title }}</h2>
 						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<div class="tag-on-hover">
+							<i class="fas fa-tags portfolio-item__tag"></i>
+							<p class="portfolio-item__tag">&nbsp;{{project.tags}}</p>
+						</div>
 					</div>
 				</div>
 
