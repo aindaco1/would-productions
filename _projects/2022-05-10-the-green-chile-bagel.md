@@ -47,8 +47,11 @@ Writer / Director / Editor -- Alonso Indacochea
 ### Behind the scenes
 
 <div class="gallery" data-columns="2">
+	<img src="/images/green_chile_bagel/behind_3.jpg">
 	<img src="/images/green_chile_bagel/behind_1.png">
 	<img src="/images/green_chile_bagel/behind_2.png">
+	<img src="/images/green_chile_bagel/behind_4.jpg">
+	<img src="/images/green_chile_bagel/behind_5.jpg">
 </div>
 
 ### Blooper Reel
