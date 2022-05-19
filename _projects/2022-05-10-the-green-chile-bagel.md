@@ -53,7 +53,7 @@ Writer / Director / Editor -- Alonso Indacochea
 
 ### Blooper Reel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/taLvqTAFRiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gKnrEQ5MUzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Film
 
