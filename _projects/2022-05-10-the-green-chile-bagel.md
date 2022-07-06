@@ -44,6 +44,10 @@ Writer / Director / Editor -- Alonso Indacochea
 <br><br>
 ["Move On - Instrumental"](https://www.musicbed.com/songs/move-on-instrumental/32039) -- written and performed by Sonny Cleveland.
 
+### Awards
+
+* Best New Mexico Production - [2022 Mindfield Film Festival, May/June](http://abq.mindfieldfilmfest.com/winners.html)
+
 ### Behind the scenes
 
 <div class="gallery" data-columns="2">
