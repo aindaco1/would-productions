@@ -38,6 +38,7 @@ Equipment used:
 ### Awards
 
 * Selected for screening -- [FUSION Surrealfest](https://calendar.abq.news/venues/138574/2487405), Albuquerque, NM
+* Selected for screening -- [Failed Films Season 5](https://allevents.in/los%20angeles/failed-films-2022/10000354403308837), Los Angeles, CA
 
 ### Film
 

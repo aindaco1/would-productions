@@ -23,7 +23,7 @@ Equipment used:
 * Godox VL150 LED Light
 * GVM 800D LED panels
 * Apurture Lantern Softbox
-* DaVinci Resolve 17
+* DaVinci Resolve 17/18
 
 ### Episodes
 
@@ -31,7 +31,8 @@ Equipment used:
 * [The Dude's White Russian](https://www.youtube.com/watch?v=eKjRv1kwGAI)
 * [James Bond's Vesper Martini](https://www.youtube.com/watch?v=ERjMg-O75ms)
 * [The Space Jam](https://www.youtube.com/watch?v=BuMBY_9EupE)
-* The Moloko Plus (coming soon)
+* [The Moloko Plus](https://www.youtube.com/watch?v=-SG5uNdHzbs)
+* The Blood of Kali (coming soon)
 
 ### Behind the scenes
 
@@ -44,4 +45,4 @@ Equipment used:
 
 ### Show
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERjMg-O75ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BuMBY_9EupE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
