@@ -7,7 +7,7 @@ published: true
 ---
 ![](/images/blog/uetf_landscape.jpg)
 
-We are excited to announce that our proposed bilingual film festival, _Sin Fronteras_, was selected for funding by the Urban Enhancement Trust Fund's Resiliency Residency Program! Our festival will take place in 2023 (dates to be finalized) and our focus is to highlight the stories of immigrants on both sides of the southern border.
+We are excited to announce that our proposed bilingual film festival, [Sin Fronteras](/project/sin-fronteras-film-festival/), was selected for funding by the Urban Enhancement Trust Fund's Resiliency Residency Program! Our festival will take place in 2023 (dates to be finalized) and our focus is to highlight the stories of immigrants on both sides of the southern border.
 
 We plan on making _Sin Fronteras_ a recurring festival.
 
@@ -25,4 +25,4 @@ We plan on making _Sin Fronteras_ a recurring festival.
 * 300 attendees to the virtual festival
 * Screen 15 feature films, 50 short films
 
-More info to come soon -- we are grateful to have the UETF's support!
+More info [here](/project/sin-fronteras-film-festival/). We are grateful to have the UETF's support!
