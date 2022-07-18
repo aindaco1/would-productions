@@ -38,7 +38,7 @@ Equipment used:
 ### Awards
 
 * Selected for screening -- [FUSION Surrealfest](https://calendar.abq.news/venues/138574/2487405), Albuquerque, NM
-* Selected for screening -- [Failed Films Season 5](https://allevents.in/los%20angeles/failed-films-2022/10000354403308837), Los Angeles, CA
+* Official Selection -- [Failed Films Season 5](https://www.eventbrite.com/e/failed-films-2022-tickets-354403308837). Screening on September 3rd, 2022 at Pskaufman Gallery in downtown Los Angeles, California.
 
 ### Film
 

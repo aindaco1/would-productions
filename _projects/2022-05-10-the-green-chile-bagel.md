@@ -47,6 +47,7 @@ Writer / Director / Editor -- Alonso Indacochea
 ### Awards
 
 * Best New Mexico Production - [2022 Mindfield Film Festival, May/June](http://abq.mindfieldfilmfest.com/winners.html)
+* [Official Selection](http://abq.mindfieldfilmfest.com/schedule2022.html) - [2022 Mindfield Film Festival](http://abq.mindfieldfilmfest.com). Screening on August 26th, 2022 at The Guild Cinema in Albuquerque, New Mexico.
 
 ### Behind the scenes
 
