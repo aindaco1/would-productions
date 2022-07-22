@@ -56,6 +56,7 @@ Writer / Director / Editor -- Alonso Indacochea
 	<img src="/images/green_chile_bagel/behind_3.jpg">
 	<img src="/images/green_chile_bagel/behind_1.png">
 	<img src="/images/green_chile_bagel/behind_2.png">
+	<img src="/images/green_chile_bagel/poster.jpg">
 	<img src="/images/green_chile_bagel/behind_4.jpg">
 	<img src="/images/green_chile_bagel/behind_5.jpg">
 </div>
