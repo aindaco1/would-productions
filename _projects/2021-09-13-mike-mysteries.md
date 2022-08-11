@@ -12,7 +12,7 @@ tags:
 
 ## Background
 
-_Mike Mysteries_ is a mockumentary created for submission to the [48 Hour Film Project Albuquerque 2021](https://www.48hourfilm.com/albuquerque) contest. Shot in multiple locations in Albuquerque, New Mexico.
+_Mike Mysteries_ is a mockumentary created for submission to the [48 Hour Film Project Albuquerque 2021](https://www.48hourfilm.com/en/albuquerque-nm/48hfp/2021) contest. Shot in multiple locations in Albuquerque, New Mexico.
 
 Equipment used:
 
