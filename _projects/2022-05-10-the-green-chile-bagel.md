@@ -48,9 +48,11 @@ Writer / Director / Editor -- Alonso Indacochea
 
 [2022 Mindfield Film Festival](http://abq.mindfieldfilmfest.com)
 * [Best New Mexico Short, Bronze Award](http://abq.mindfieldfilmfest.com/winnerslive2022.html). Screened on August 26th, 2022 at The Guild Cinema in Albuquerque, New Mexico.
-* Best New Mexico Production - [May/June](http://abq.mindfieldfilmfest.com/winners.html)
+* Best New Mexico Production - [May/June 2022.](http://abq.mindfieldfilmfest.com/winners.html)
 <br><br>
-* [Official Selection](https://www.facebook.com/events/962621354453918) - 2022 High Desert Screening. Screened on August 13th, 2022 at South Broadway Cultural Center in Albuquerque, New Mexico.
+
+[2022 High Desert Screening](https://www.facebook.com/events/962621354453918)
+* Official Selection. Screened on August 13th, 2022 at South Broadway Cultural Center in Albuquerque, New Mexico.
 
 ### Behind the scenes
 
