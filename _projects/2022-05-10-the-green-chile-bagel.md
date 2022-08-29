@@ -12,7 +12,7 @@ tags:
 
 ## Background
 
-_The Green Chile Bagel_ is a short film created for submission to the [2022 Musicbed Challenge](https://challenge.musicbed.com) contest. The film was shot over the course of 1 day in downtown Albuquerque, New Mexico.
+_The Green Chile Bagel_ is a short film originally created for submission to the [2022 Musicbed Challenge](https://challenge.musicbed.com) contest. The film was shot over the course of 1 day in downtown Albuquerque, New Mexico.
 
 Equipment used:
 
@@ -46,9 +46,11 @@ Writer / Director / Editor -- Alonso Indacochea
 
 ### Awards
 
-* Best New Mexico Production - [2022 Mindfield Film Festival, May/June](http://abq.mindfieldfilmfest.com/winners.html)
-* [Official Selection](http://abq.mindfieldfilmfest.com/schedule2022.html) - [2022 Mindfield Film Festival](http://abq.mindfieldfilmfest.com). Screening on August 26th, 2022 at The Guild Cinema in Albuquerque, New Mexico.
-* [Official Selection](https://www.facebook.com/events/962621354453918) - 2022 High Desert Screening. Screening on August 13th, 2022 at South Broadway Cultural Center in Albuquerque, New Mexico.
+[2022 Mindfield Film Festival](http://abq.mindfieldfilmfest.com)
+* [Best New Mexico Short, Bronze Award](http://abq.mindfieldfilmfest.com/winnerslive2022.html). Screened on August 26th, 2022 at The Guild Cinema in Albuquerque, New Mexico.
+* Best New Mexico Production - [May/June](http://abq.mindfieldfilmfest.com/winners.html)
+<br><br>
+* [Official Selection](https://www.facebook.com/events/962621354453918) - 2022 High Desert Screening. Screened on August 13th, 2022 at South Broadway Cultural Center in Albuquerque, New Mexico.
 
 ### Behind the scenes
 
@@ -59,6 +61,7 @@ Writer / Director / Editor -- Alonso Indacochea
 	<img src="/images/green_chile_bagel/poster.jpg">
 	<img src="/images/green_chile_bagel/behind_4.jpg">
 	<img src="/images/green_chile_bagel/behind_5.jpg">
+	<img src="/images/blog/mindfield_award.jpg">
 </div>
 
 ### Blooper Reel
