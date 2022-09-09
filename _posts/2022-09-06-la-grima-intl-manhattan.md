@@ -39,5 +39,6 @@ Thanks to the judges and organizers, and shout out to our whole crew!
 * Stuart Rupprecht
 * Isaac Guereque
 * Kathleen Holscher
+* John Dewar
 
 More info on the film [here](/project/la-grima).
