@@ -32,6 +32,7 @@ Equipment used:
 
 <div class="gallery" data-columns="2">
 	<img src="/images/close_shave/behind_1.jpg">
+	<img src="/images/close_shave/poster.png">
 	<img src="/images/close_shave/behind_2.png">
 </div>
 
