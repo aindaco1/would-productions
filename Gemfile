@@ -13,5 +13,6 @@ ruby RUBY_VERSION
 gem "jekyll", "3.9"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "jekyll-feed"
 gem "webrick"
 gem "kramdown-parser-gfm", "1.1.0"
