@@ -57,7 +57,7 @@ Production Assistant — Taryn Bernicke
 
 Original music by Matthew Atkins
 
-"Commercial Endeavors" - Composed and performed by Steven Shop.
+["Commercial Endeavors"](https://soundcloud.com/user-733700878/commercial-endeavours) -- Composed and performed by Steven Shop.
 <br><br>
 **Cast in order of appearance**
 
