@@ -78,8 +78,9 @@ George's child - Jo Indacochea
 <div class="gallery" data-columns="2">
 	<img src="/images/red_pillow/behind_3.png">
 	<img src="/images/red_pillow/behind_1.jpg">
-	<img src="/images/red_pillow/behind_2.jpg">
+	<img src="/images/red_pillow/poster.png">
 	<img src="/images/red_pillow/behind_4.jpg">
+	<img src="/images/red_pillow/behind_2.jpg">
 </div>
 
 ### Movie
