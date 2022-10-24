@@ -37,11 +37,14 @@ Equipment used:
 
 ### Awards
 
+[2021 Albuquerque 48 Hour Film Project](https://www.48hourfilm.com/en/albuquerque-nm/48hfp/2021)
 * Best Performance in Comedic Supporting Role - James Rodriguez
 * Audience Award
 * Best Editing
 * Best Directing
 * Best Film
+
+[2022 Albuquerque 48 Hour Film Project Horror Extravaganza](https://www.youtube.com/watch?v=uJXB8tw_jpA) -- Selected for Screening
 
 <div class="gallery" data-columns="2">
 	<img src="/images/mike_mysteries/awards_1.jpg">
