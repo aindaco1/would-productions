@@ -1,6 +1,6 @@
 ---
 title: 'Red Pillow'
-subtitle: 'Horror commercial parody for the 2022 All Hallows' Eve Halloween Short Film Festival'
+subtitle: 'Horror commercial parody for the 2022 All Hallows Eve Halloween Short Film Festival'
 date: 2022-10-21 00:00:00
 description: More info on our entry to the 2022 All Hallows' Eve Halloween Short Film Festival
 featured_image: '/images/red_pillow/still_1_square.png'
