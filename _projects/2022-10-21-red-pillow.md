@@ -73,6 +73,16 @@ George's partner — Jordyn Bernicke
 
 George's child - Jo Indacochea
 
+### Awards
+
+[2022 All Hallows' Eve Halloween Short Film Contest](https://www.youtube.com/watch?v=AwuGuXriOOs)
+* Best Kill
+* Best Directing
+* 1st Place
+
+[2022 QTCinderella Spooky Halloween Film Festival](https://www.youtube.com/watch?v=-WYlCyUylXw) -- Finalist
+* 10th Place
+
 ### Behind the scenes
 
 <div class="gallery" data-columns="2">
@@ -85,4 +95,4 @@ George's child - Jo Indacochea
 
 ### Movie
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/biXyL7UeNyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJA5AgFrGGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
