@@ -14,8 +14,6 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Film Calendar'
-      url: '/calendar'
     - title: 'Contact'
       url: '/contact'
 
