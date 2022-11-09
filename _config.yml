@@ -63,7 +63,7 @@ title: Would Productions
 description: A collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
 author: Would Productions
 
-paginate: 6
+paginate: 8
 paginate_path: "/blog/page:num/"
 
 gallery_types:
