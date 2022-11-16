@@ -17,6 +17,8 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 	<img src="/images/about/alonso.jpg">
 	<img src="/images/about/ryan.jpg">
 	<img src="/images/about/taryn.jpg">
+	<img src="/images/about/jocelyn.jpg">
+	<img src="/images/about/cal.jpg">
 	<img src="/images/about/adrian.jpg">
 	<img src="/images/about/mattkins.jpg">
 	<img src="/images/about/jordyn.jpg">
@@ -45,6 +47,10 @@ Creator, Actor
 Creator, Production Assistant
 #### Jade Stokes
 Creator, Actor, Producer
+#### Jocelyn Montoya
+Creator, Actor
+#### Callahan Moots
+Creator, Sound Designer
 #### Matthew Atkins
 Creator, Composer
 #### Jordyn Bernicke
@@ -59,6 +65,8 @@ Creator, Writer, Actor, Designer, Visual Effects
 Creator, Production Assistant
 #### Jenny Thoma
 Creator, Podcaster
+<br>
+<br>
 <br>
 <br>
 <br>
