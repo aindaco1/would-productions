@@ -13,10 +13,9 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 	<img src="/images/about/jay.jpg">
 	<img src="/images/about/jacklyn.jpg">
 	<img src="/images/about/james.jpg">
-	<img src="/images/about/lauren.jpg">
+	<img src="/images/about/jade.jpg">
 	<img src="/images/about/alonso.jpg">
 	<img src="/images/about/ryan.jpg">
-	<img src="/images/about/helen.jpg">
 	<img src="/images/about/taryn.jpg">
 	<img src="/images/about/adrian.jpg">
 	<img src="/images/about/mattkins.jpg">
@@ -24,7 +23,7 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 	<img src="/images/about/nater.jpg">
 	<img src="/images/about/jenny.jpg">
 	<img src="/images/about/damian.jpg">
-	<img src="/images/about/jacqueline.jpg">
+	<img src="/images/about/kaidin.jpg">
 	<img src="/images/about/frank.jpg">
 </div>
 
@@ -34,8 +33,6 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 Director, Cinematographer, Editor
 #### Alonso Indacochea
 Producer, Writer, Director, Editor
-#### Helen Atkins
-Creator, Writer, Actor
 #### James Rodriguez
 Creator, Actor
 #### Taryn Bernicke
@@ -46,8 +43,8 @@ Creator, Actor, Set Design
 Creator, Actor
 #### Ryan Lewis
 Creator, Production Assistant
-#### Lauren Baca
-Creator, Writer
+#### Jade Stokes
+Creator, Actor, Producer
 #### Matthew Atkins
 Creator, Composer
 #### Jordyn Bernicke
@@ -56,12 +53,13 @@ Creator, Writer, Graphic Designer
 Creator, Actor
 #### Frank Rangel
 Creator, Audio Design
-#### Jacqueline Smith
-Creator, Writer
+#### Kaidin Jarjusey
+Creator, Writer, Actor, Designer, Visual Effects
 #### Nathan Moats
 Creator, Production Assistant
 #### Jenny Thoma
 Creator, Podcaster
+<br>
 <br>
 <br>
 </div>
