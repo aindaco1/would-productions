@@ -1,4 +1,4 @@
-site: Would Productions
+site: Dust Wave
 
 collections:
   pages:
@@ -59,9 +59,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-title: Would Productions
+title: Dust Wave
 description: A collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
-author: Would Productions
+author: Dust Wave
 
 paginate: 8
 paginate_path: "/blog/page:num/"

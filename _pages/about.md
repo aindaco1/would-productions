@@ -1,13 +1,13 @@
 ---
 title: About
 subtitle:
-description: More info on Would Productions.
+description: More info on Dust Wave.
 featured_image: /images/social.png
 ---
 
 ### Who We Are
 
-Would Productions is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
+Dust Wave is a collective of filmmakers and creative folks creating short films, documentaries, and web content in beautiful, sunny New Mexico.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/about/jay.jpg">
@@ -22,11 +22,12 @@ Would Productions is a collective of filmmakers and creative folks creating shor
 	<img src="/images/about/adrian.jpg">
 	<img src="/images/about/mattkins.jpg">
 	<img src="/images/about/jordyn.jpg">
-	<img src="/images/about/nater.jpg">
 	<img src="/images/about/jenny.jpg">
 	<img src="/images/about/damian.jpg">
 	<img src="/images/about/kaidin.jpg">
 	<img src="/images/about/frank.jpg">
+	<img src="/images/about/camille.jpg">
+	<img src="/images/about/brandon.jpg">
 </div>
 
 <br>
@@ -61,13 +62,12 @@ Creator, Actor
 Creator, Audio Design
 #### Kaidin Jarjusey
 Creator, Writer, Actor, Designer, Visual Effects
-#### Nathan Moats
-Creator, Production Assistant
 #### Jenny Thoma
 Creator, Podcaster
-<br>
-<br>
-<br>
+#### Camille Carlson
+Creator, Actor, Designer
+#### Brandon Carter
+Creator, Actor, Writer
 <br>
 <br>
 </div>
