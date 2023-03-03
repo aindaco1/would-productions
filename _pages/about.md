@@ -14,6 +14,7 @@ Dust Wave is a collective of filmmakers and creative folks creating short films,
 	<img src="/images/about/jacklyn.jpg">
 	<img src="/images/about/james.jpg">
 	<img src="/images/about/jade.jpg">
+	<img src="/images/about/austin.jpg">
 	<img src="/images/about/alonso.jpg">
 	<img src="/images/about/ryan.jpg">
 	<img src="/images/about/taryn.jpg">
@@ -68,6 +69,9 @@ Creator, Podcaster
 Creator, Actor, Designer
 #### Brandon Carter
 Creator, Actor, Writer
+#### Austin Madrid
+Creator, Director, Cinematographer, Editor
+<br>
 <br>
 <br>
 </div>
