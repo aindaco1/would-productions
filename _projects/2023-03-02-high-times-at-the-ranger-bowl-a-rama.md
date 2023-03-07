@@ -66,6 +66,8 @@ Special Thanks - <a href="https://allthingsmood.com" target="_blank">MOOD</a> & 
 	<img src="/images/high_times_at_the_ranger_bowl-a-rama/high_times8.jpg">
 </div>
 
+Photos courtesy of <a href="https://cherritathaosphotography.pic-time.com/portfolio" target="_blank">Cherrita Thao</a> & <a href="https://www.instagram.com/jordynb_art/" target="_blank">Jordyn Bernicke</a>
+
 ### Movie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KTE8uLA8Yw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
