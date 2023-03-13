@@ -74,9 +74,9 @@ color_settings:
   error_color: '#D64541'
   
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nanum Myeongjo:300,400,600,700,800" rel="stylesheet">'
-  title_font: '"Nanum Myeongjo", sans-serif'
-  body_font: '"Capriola", sans-serif'
+  font_embed: '<link rel="stylesheet" href="https://use.typekit.net/hoj2yet.css">'
+  title_font: '"gambado-sans", sans-serif'
+  body_font: '"Inter", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
