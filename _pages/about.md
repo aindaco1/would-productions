@@ -27,6 +27,7 @@ Dust Wave is a collective of filmmakers and creative folks creating short films,
 	<img src="/images/about/damian.jpg">
 	<img src="/images/about/kaidin.jpg">
 	<img src="/images/about/frank.jpg">
+	<img src="/images/about/katie.jpg">
 	<img src="/images/about/camille.jpg">
 	<img src="/images/about/brandon.jpg">
 </div>
@@ -71,7 +72,8 @@ Creator, Actor, Designer
 Creator, Actor, Writer
 #### Austin Madrid
 Creator, Director, Cinematographer, Editor
-<br>
+#### Kathleen Holscher
+Creator, Writer
 <br>
 <br>
 </div>
