@@ -213,8 +213,6 @@ a {
 	padding: 9px 10px 10px;
 	font-size: 13px;
 	line-height: 1;
-	border: 2px solid $accent-color;
-	background: $accent-color;
 	color: $background-color;
 	font-weight: $button-weight;
 	letter-spacing: $button-spacing;
@@ -226,8 +224,6 @@ a {
 	}
 
 	&:hover {
-		background: adjust-hue($accent-color,15%);
-		border-color: adjust-hue($accent-color,15%);
 		color: $background-color;
 	}
 
@@ -432,4 +428,73 @@ section {
 .tag-on-hover {
 	display: inline-flex;
     align-items: center;
+}
+
+#mc_embed_signup {
+	max-width: 600px;
+	clear: left;
+	font-size: smaller;
+	line-height: 10px;
+}
+
+.brandingLogo {
+	display: none;
+}
+
+#popup {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 0;
+	opacity: 0;
+	transition: all 0.3s ease-in-out;
+	z-index: 9999;
+}
+  
+#popup.show {
+	height: auto;
+	opacity: 1;
+}
+  
+.popup-content {
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	margin: 0 auto;
+	padding: 20px;
+	max-width: 500px;
+	position: relative;
+}
+  
+.close-btn {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+  
+.lazyload {
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s, opacity 0.5s ease;
+}
+  
+.lazyload.show {
+	visibility: visible;
+	opacity: 1;
+}
+
+input[type=submit] {
+	font-family: 'Gambado-Sans', sans-serif;
+	background-color: black !important;
+	border-radius: 4px;
+    padding: 0 22px;
+    line-height: 32px;
 }
