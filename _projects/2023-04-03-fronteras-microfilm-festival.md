@@ -1,7 +1,7 @@
 ---
 title: 'Fronteras Micro-film Festival and Exhibition'
 subtitle: 'A border-themed film festival and exhibition in Albuquerque'
-date: 2022-07-01 00:00:00
+date: 2023-04-03 00:00:00
 description: More info on our border-themed film festival and exhibit in Albuquerque
 featured_image: '/images/fronteras/bigbend_square.jpg'
 tags:
