@@ -251,3 +251,34 @@ iframe {
 		max-width: 90% !important;
 	}
 }
+
+// Shop
+
+figure.shop {
+	max-width: 70%;
+	margin: 0 0 20px 0;
+	text-align: center;
+}
+
+.center-flex {
+	display: flex;
+	align-items: center;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+
+	@media screen and (max-width: 650px) {
+		flex-wrap: wrap;
+	}
+}
+
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+
+stripe-buy-button {
+
+}
